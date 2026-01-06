@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## TaskSync v2.0.13 (01-06-26)
+- update CHANGELOG
+- Updated card rendering behavior for tool call history.
+
+
 ## TaskSync v2.0.12 (01-06-26)
 - Modified card rendering to add 'expanded' class only to the latest tool call
 - Older tool call cards are now collapsed by default
